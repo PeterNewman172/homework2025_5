@@ -1,0 +1,17 @@
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\PocketGIS.exe
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\PocketGIS.deps.json
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\PocketGIS.runtimeconfig.json
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\PocketGIS.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\PocketGIS.pdb
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.PocketGIS.resources
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.Properties.Resources.resources
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.csproj.GenerateResource.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.AssemblyInfoInputs.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.AssemblyInfo.cs
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\refint\PocketGIS.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.pdb
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\PocketGIS.genruntimeconfig.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\ref\PocketGIS.dll

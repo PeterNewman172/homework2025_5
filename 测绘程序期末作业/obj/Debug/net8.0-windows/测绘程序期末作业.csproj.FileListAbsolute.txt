@@ -1,0 +1,51 @@
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.exe
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.deps.json
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.runtimeconfig.json
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.PocketGIS.resources
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.Properties.Resources.resources
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.GenerateResource.cache
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfo.cs
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\refint\测绘程序期末作业.dll
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.genruntimeconfig.cache
+C:\Users\ABC\source\repos\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\ref\测绘程序期末作业.dll
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.exe
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.deps.json
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.runtimeconfig.json
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.PocketGIS.resources
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.Properties.Resources.resources
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\refint\测绘程序期末作业.dll
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\测绘程序开发 大作业\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\ref\测绘程序期末作业.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.exe
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.deps.json
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.runtimeconfig.json
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\bin\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.PocketGIS.resources
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.Properties.Resources.resources
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.GenerateResource.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfoInputs.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.AssemblyInfo.cs
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\refint\测绘程序期末作业.dll
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.pdb
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\测绘程序期末作业.genruntimeconfig.cache
+C:\Users\ABC\Desktop\测绘程序\测绘程序期末作业\测绘程序期末作业\obj\Debug\net8.0-windows\ref\测绘程序期末作业.dll
