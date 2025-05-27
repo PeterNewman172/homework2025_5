@@ -23,7 +23,7 @@ namespace PocketGIS
         public double Z { get; set; } = 0;             // 高程（三维坐标）
         public DateTime CreationTime { get; set; }     // 创建/导入时间
         public string Description { get; set; } = "";  // 备注信息
-        public float SymbolSize { get; set; } = 5f;    // 符号大小（替代原Size，更明确）
+        public float SymbolSize { get; set; } = 5f;    // 符号大小
         public string SymbolStyle { get; set; } = "Circle"; // 符号样式（Circle/Star等）
         public bool IsSurveyPoint { get; set; } = true; // 是否为实测点标记
 
